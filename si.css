@@ -1,0 +1,16 @@
+table{
+    background-color: silver;
+    border:05px solid red;
+
+}
+*{
+    padding: 5px;
+}
+#b1{
+    background-color: skyblue;
+    color: white;
+}
+#b2{
+    background-color: greenyellow;
+    color: white;
+}
